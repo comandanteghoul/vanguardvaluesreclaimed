@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "The main reason i'm a socialist is to save my nation.",
+        "question": "The main reason I'm a socialist is to save my nation.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -338,7 +338,7 @@ questions = [
         }
     },
     {
-        "question": "Nationalism and patriotism have no place in a marxist movement.",
+        "question": "Nationalism and patriotism have no place in a Marxist movement.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -767,7 +767,7 @@ questions = [
         }
     },
     {
-        "question": "At the end, a revolution will have caused more harm than good to the workers.",
+        "question": "In the end, a revolution will have caused more harm than good to the workers.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -780,7 +780,7 @@ questions = [
         }
     },
     {
-        "question": "Since agricultural exploitation exist since longer, we should get rid of it quicker.",
+        "question": "Since agricultural exploitation has existed longer, we should make it our priority to dismantled it first.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -806,7 +806,7 @@ questions = [
         }
     },
     {
-        "question": "The choice to abort or not should be given to women.",
+        "question": "The choice to abort or not should be given to the one carrying the fetus.",
         "effect": {
             "b1": 0,
             "b2": 0,
