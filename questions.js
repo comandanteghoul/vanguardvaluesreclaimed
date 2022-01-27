@@ -247,7 +247,7 @@ questions = [
         }
     },
     {
-        "question": "We should developp a stockpile of weapons for the socialist cause.",
+        "question": "We should develop a stockpile of weapons for the socialist cause.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -403,7 +403,7 @@ questions = [
         }
     },
     {
-        "question": "Pre revolution working class is not able to rule properly and need bourgeois leaders.",
+        "question": "Pre-revolution working class are not suited to rule and need bourgeois leaders.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -572,7 +572,7 @@ questions = [
         }
     },
     {
-        "question": "Agrarian and rural regions are the best to start a revolution in third world countries.",
+        "question": "Agrarian and rural regions are the best place to start a revolution in third world countries.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -650,7 +650,7 @@ questions = [
         }
     },
     {
-        "question": "Socialism in one country, like with Stalin and Kim, is needed to secure our positions.",
+        "question": "Socialism in one country, like with Stalin and Kim, is needed to secure our positions and protect our nation.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -663,7 +663,7 @@ questions = [
         }
     },
     {
-        "question": "Violence is needed to fight the bourgeoisie.",
+        "question": "Violence is needed to fight overthrow the bourgeoisie.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -728,7 +728,7 @@ questions = [
         }
     },
     {
-        "question": "Not everyone is competent enough to lead socialism.",
+        "question": "Not everyone is competent enough to lead a socialist nation.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -741,7 +741,7 @@ questions = [
         }
     },
     {
-        "question": "Central planning don't allow for the production of wanted goods for the population.",
+        "question": "Central planning doesn't allow for the production of wanted/desired goods for the population.",
         "effect": {
             "b1": 0,
             "b2": -1,
