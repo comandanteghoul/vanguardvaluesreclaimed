@@ -169,7 +169,7 @@ questions = [
         }
     },
     {
-        "question": "The liberation of the working man goes in pair with other rights such as LGBT+.",
+        "question": "The liberation of the working man goes in pair with other minority liberation movements, such as queer/trans liberation, black liberation, indigenous liberation, etc..",
         "effect": {
             "b1": 0,
             "b2": 0,
